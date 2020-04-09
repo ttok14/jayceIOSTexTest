@@ -15,7 +15,7 @@ public class Test : MonoBehaviour
 
         if (GUI.Button(new Rect(200, 0, 200, 200), "POT_NoPacking"))
         {
-            SceneManager.LoadScene("NPOT_NoPacking");
+            SceneManager.LoadScene("POT_NoPacking");
         }
 
         if (GUI.Button(new Rect(0, 200, 200, 200), "NPOT_LegacyPacking"))

@@ -6,21 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/NPOT_SpriteAtlas.unity
-    guid: a9818ebb477f7a74faa79e11ea417573
-  - enabled: 1
-    path: Assets/NPOT_LegacyPacking.unity
-    guid: de76d5e06f2132344b46674066fab0f3
-  - enabled: 1
     path: Assets/NPOT_NoPacking.unity
     guid: bdbc763d78087a642bb29c414ca89097
-  - enabled: 1
-    path: Assets/POT_LegacyPacking.unity
-    guid: a664254c689a0aa4e935ebe9f1eb44ef
   - enabled: 1
     path: Assets/POT_NoPacking.unity
     guid: 57c934fc88e77ca46a61990be04dc90b
   - enabled: 1
+    path: Assets/NPOT_LegacyPacking.unity
+    guid: de76d5e06f2132344b46674066fab0f3
+  - enabled: 1
+    path: Assets/POT_LegacyPacking.unity
+    guid: a664254c689a0aa4e935ebe9f1eb44ef
+  - enabled: 1
+    path: Assets/NPOT_SpriteAtlas.unity
+    guid: a9818ebb477f7a74faa79e11ea417573
+  - enabled: 1
     path: Assets/POT_SpriteAtlas.unity
     guid: 2e0119cd141ebf94e880491da2fbd36e
-  m_configObjects: {}
