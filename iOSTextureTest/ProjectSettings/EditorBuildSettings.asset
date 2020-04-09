@@ -23,3 +23,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/POT_SpriteAtlas.unity
     guid: 2e0119cd141ebf94e880491da2fbd36e
+  - enabled: 0
+    path: Assets/empty.unity
+    guid: 0ec913014044b42f0b4ebb8873a7f72a
